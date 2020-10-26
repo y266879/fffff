@@ -1,5 +1,0 @@
-<html>
-	<title>hello world</title>
-	<body>
-	</body>
-</html>
